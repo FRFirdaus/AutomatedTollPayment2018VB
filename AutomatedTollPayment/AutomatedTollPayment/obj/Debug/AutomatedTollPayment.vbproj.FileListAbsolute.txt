@@ -1,0 +1,20 @@
+c:\users\asus\documents\visual studio 2013\Projects\AutomatedTollPayment\AutomatedTollPayment\bin\Debug\AutomatedTollPayment.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\AutomatedTollPayment\AutomatedTollPayment\bin\Debug\AutomatedTollPayment.exe
+c:\users\asus\documents\visual studio 2013\Projects\AutomatedTollPayment\AutomatedTollPayment\bin\Debug\AutomatedTollPayment.pdb
+c:\users\asus\documents\visual studio 2013\Projects\AutomatedTollPayment\AutomatedTollPayment\bin\Debug\AutomatedTollPayment.xml
+c:\users\asus\documents\visual studio 2013\Projects\AutomatedTollPayment\AutomatedTollPayment\obj\Debug\AutomatedTollPayment.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\AutomatedTollPayment\AutomatedTollPayment\obj\Debug\AutomatedTollPayment.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\AutomatedTollPayment\AutomatedTollPayment\obj\Debug\AutomatedTollPayment.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\AutomatedTollPayment\AutomatedTollPayment\obj\Debug\AutomatedTollPayment.exe
+c:\users\asus\documents\visual studio 2013\Projects\AutomatedTollPayment\AutomatedTollPayment\obj\Debug\AutomatedTollPayment.xml
+c:\users\asus\documents\visual studio 2013\Projects\AutomatedTollPayment\AutomatedTollPayment\obj\Debug\AutomatedTollPayment.pdb
+D:\REHAN\buat SKRIPSI\AutomatedTollPayment\AutomatedTollPayment\bin\Debug\AutomatedTollPayment.exe.config
+D:\REHAN\buat SKRIPSI\AutomatedTollPayment\AutomatedTollPayment\obj\Debug\AutomatedTollPayment.exe
+D:\REHAN\buat SKRIPSI\AutomatedTollPayment\AutomatedTollPayment\obj\Debug\AutomatedTollPayment.xml
+D:\REHAN\buat SKRIPSI\AutomatedTollPayment\AutomatedTollPayment\obj\Debug\AutomatedTollPayment.pdb
+D:\REHAN\buat SKRIPSI\AutomatedTollPayment\AutomatedTollPayment\bin\Debug\AutomatedTollPayment.exe
+D:\REHAN\buat SKRIPSI\AutomatedTollPayment\AutomatedTollPayment\bin\Debug\AutomatedTollPayment.pdb
+D:\REHAN\buat SKRIPSI\AutomatedTollPayment\AutomatedTollPayment\bin\Debug\AutomatedTollPayment.xml
+D:\REHAN\buat SKRIPSI\AutomatedTollPayment\AutomatedTollPayment\obj\Debug\AutomatedTollPayment.Form1.resources
+D:\REHAN\buat SKRIPSI\AutomatedTollPayment\AutomatedTollPayment\obj\Debug\AutomatedTollPayment.Resources.resources
+D:\REHAN\buat SKRIPSI\AutomatedTollPayment\AutomatedTollPayment\obj\Debug\AutomatedTollPayment.vbproj.GenerateResource.Cache

@@ -1,0 +1,120 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AutomatedTollPayment
+</name>
+</assembly>
+<members>
+<member name="P:AutomatedTollPayment.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.bush_151473_640">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.city_buildings_png_transparent_images_clipart_icons_pngriver_download_free_infrastructure_img">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.cityscape_303406_960_720">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.dalem">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.etoll">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.gerbang_out">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.gerbang_tol">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.green_wheat_grass_tuft_hi1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.icon_31883_960_720">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.jalantol">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.jalantol1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.mobil2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.mobil21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.mobilAPT">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.mobilijo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.mobilitem">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.mobilpol">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.mobilpol1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.mobilsport">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.mobilsport1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.pembatasgatetol">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.pembatasgatetol2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.RTd6x4Mqc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutomatedTollPayment.My.Resources.Resources.skyline_297219_960_720">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:AutomatedTollPayment.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
